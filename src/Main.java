@@ -3,7 +3,7 @@ public class Main {
 
         int cost = 15000;
         int rub = 20;
-        int bonus = cost/rub;
+        int bonus = cost / rub;
 
         System.out.println("Итоговый бонус: " + bonus + " миль");
     }
